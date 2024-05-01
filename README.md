@@ -5,8 +5,11 @@
 
 2. It removes and flips every stacked square once filled in. I would have to fill Pacita Abad's "Wheels of Fortune" with many dotted circles, but this process is tedious and repetitious. Coding can give a painting life, and we can enhance its visual impact by filling and reversing it like Square Fill. We can fill and invert like Square Fill to enhance the visual effect. The multi-colour rhythm can also satisfy the colour variety of 'Wheels of Fortune'. 
 
-3. ![An image of a cat](image/111.png)
+3. 
+![An image of a cat](image/111.png)
+
 ![An image of a cat](image/222.png)
+
 ![An image of a cat](image/333.png)
 
 
