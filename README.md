@@ -20,13 +20,9 @@
 2. Drawing functions are in P5.js. In Square Fill, p5.js loops through the "function draw()" function, drawing a growing square on the canvas and dynamically changing the fill colour. When the square size reaches a threshold, draw a new square and adjust the colour and size parameters to achieve continuous change. When drawing 'Wheels of Fortune,' I could change the square to a circle and resize each circle loop by changing the radius ("radius +="). The circle shrinks and folds inside the larger circle with "maxRadius -=". When the radius is less than zero, reset ("maxRadius = value").  
 
 3. Screenshots& Links
-
-1. Screenshots
 ![An image of a cat](image/444.png)
 ![An image of a cat](image/555.png)
-
-2. Links
-[Link Text](https://happycoding.io/tutorials/p5js/animation/square-fill)
+[Link Text](https://happycoding.io/tutorials/p5js/animation/square-fill)，
 [Link Text](https://p5js.org/reference/#/p5/draw)
 
 
